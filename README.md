@@ -1,4 +1,4 @@
- <h1>Guessing Number Game</h1> 
+ <h1>Guessing Number Game </h1> 
 
   <h2>Overview</h2>
   <pre>The Guessing Number Game is a simple console-based game written in Java. 
