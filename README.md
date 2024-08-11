@@ -5,7 +5,7 @@
 The objective of the game is to guess a randomly generated number between 1 and 100 within 10 attempts.
     </pre>
     
-  <h2>How to Play</h2>
+  <h2>How to Play </h2>
     <ol>
         <li>Run the program</li>
         <li>You will have 10 chances to guess the correct number.</li>
